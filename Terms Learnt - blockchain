@@ -1,10 +1,13 @@
 
-
-Terms :-
-Etherrium 
-Corda (R3)
-Azure BaaS
+Blcokchain frameworks :Etherrium , Corda (R3) , Azure BaaS
 Truffle : tool to deploy blockchain and start sending messages to it
+Ether related terms :- Gas limit, gase price, transaction fees
+More details below :-
+To do anything on the Ethereum platform, you need to pay for it, and the payment (or fee) is calculated in Ether (ETH) via an intermediary benchmark called gas limit and gas price.
+This equation is used for calculating ETH (or Transaction fees):
+Ether = Tx Fees = Gas Limit * Gas Price ( this amount goes into mining account)
+WEI : unit of ether : 1 to the powwer 18 zeors WEI = 1 ether 
+
 
 
 
