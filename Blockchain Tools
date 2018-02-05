@@ -10,3 +10,17 @@ Azure Blockchain as a service : TO explore more on this platform
 faucet : to get test bitcoins in your account 
 -- Resources on linked in 
 https://www.linkedin.com/pulse/get-blockchain-development-resource-guide-chris-zhong/
+-- cryptlets -----
+https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/CryptletsDeepDive.md?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BKkPpRy6cS82QOxSuGJYRuw%3D%3D
+
+https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/CryptletsDeepDive.md#utility-cryptlets
+-- ETH / web3 resource ----
+http://ethdocs.org/en/latest/introduction/index.html
+https://web3js.readthedocs.io/en/1.0/web3-bzz.html
+Notes : 
+1. etherium has two types of accounts user accounts and contract accounts.
+contract account is hte address where the contract is deployed and when a message is sent to this 
+address the contract code gets executed
+
+2. Ehtereum does not sue APplicaiton specific integreated circuit ( ASIC ) for mining rather it uses memory intestive computations for mining problems.
+3. MAIDSAFE AND NXT are teh alternates to ethereum technology
